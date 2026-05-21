@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Syntax-Sculptor
+
+I'm a Computer Science graduate interested in low-level programming and Quality Assurance. I'm also a hobbyist video game modder, especially with one of my favorite childhood games, The Binding of Isaac!
+
+#### Languages I Actively Use
+
+![C](https://img.shields.io/badge/C-555?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555)
+![Lua](https://img.shields.io/badge/Lua-555?logo=lua&logoColor=white)
 
 <!--
 **Syntax-Sculptor/Syntax-Sculptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
