@@ -4,7 +4,7 @@ I'm a Computer Science graduate interested in low-level programming and Quality 
 
 You might also know me as the chronic coffee addict ☕
 
-## Tools & Languages
+## 🔨 Tools & Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
