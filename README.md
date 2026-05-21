@@ -1,17 +1,15 @@
-### 👋 Hi, I'm Syntax-Sculptor
+## 👋 Hi, I'm Syntax-Sculptor
 
 I'm a Computer Science graduate interested in low-level programming and Quality Assurance. I'm also a hobbyist video game modder, especially with one of my favorite childhood games, The Binding of Isaac!
 
 You might also know me as the chronic coffee addict ☕
 
-### Tools & Languages
+## Tools & Languages
 
 ![C](https://img.shields.io/badge/C-555?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-555?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-555)
 ![Lua](https://img.shields.io/badge/Lua-555?logo=lua&logoColor=white)
-
-### Highlighted Projects
 
 ## ⭐ Highlighted Projects
 
