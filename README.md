@@ -1,6 +1,8 @@
-### Hi, I'm Syntax-Sculptor
+### 👋 Hi, I'm Syntax-Sculptor
 
 I'm a Computer Science graduate interested in low-level programming and Quality Assurance. I'm also a hobbyist video game modder, especially with one of my favorite childhood games, The Binding of Isaac!
+
+You might also know me as the chronic coffee addict ☕
 
 #### Languages I Actively Use
 
