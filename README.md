@@ -13,25 +13,10 @@ You might also know me as the chronic coffee addict ☕
 
 ### Highlighted Projects
 
-- REPENTOGON : https://github.com/TeamREPENTOGON/REPENTOGON
-  - REPENTOGON is a widely used script extender for The Binding of Isaac: Repentance+ which greatly expands the game's Lua modding API, opening up countless new possibliities for modders. 
-  - I periodically contribute to this project with some new API additions and bug fixes.
-- IsaacScript : https://github.com/IsaacScript/isaacscript
-  - IsaacScript is a tool that allows modders to write mods for The Binding of Isaac: Rebirth using TypeScript, which is then transpiled into Lua using [Typescript-to-Lua](https://typescripttolua.github.io/).
-  - I help maintain the type definitions and documentation for the API functions.
+## ⭐ Highlighted Projects
 
-
-<!--
-**Syntax-Sculptor/Syntax-Sculptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | My work |
+|---|---|---|
+| [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | C++ script extender for Binding of Isaac: Repentance | API additions, bug fixes, assembly-level patches |
+| [IsaacScript](https://github.com/IsaacScript/isaacscript) | TypeScript tooling for Isaac mod development | Type definitions and API documentation |
+| [ByteStats](link-here) | C CLI tool for byte-level file statistics | Unit tests and edge-case coverage |
