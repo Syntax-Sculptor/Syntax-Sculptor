@@ -6,15 +6,17 @@ You might also know me as the chronic coffee addict ☕
 
 ## Tools & Languages
 
-![C](https://img.shields.io/badge/C-555?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-555?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-555)
-![Lua](https://img.shields.io/badge/Lua-555?logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## ⭐ Highlighted Projects
 
 | Project | What it is | My work |
 |---|---|---|
-| [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | C++ script extender for Binding of Isaac: Repentance | API additions, bug fixes, assembly-level patches |
+| [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | C++ script extender for The Binding of Isaac: Repentance | API additions, bug fixes, assembly-level patches |
 | [IsaacScript](https://github.com/IsaacScript/isaacscript) | TypeScript tooling for Isaac mod development | Type definitions and API documentation |
 | [ByteStats](link-here) | C CLI tool for byte-level file statistics | Unit tests and edge-case coverage |
