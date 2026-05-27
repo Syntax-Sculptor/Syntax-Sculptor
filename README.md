@@ -18,5 +18,5 @@ You might also know me as the chronic coffee addict ☕
 | Project | What it is | My work |
 |---|---|---|
 | [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | C++ script extender for The Binding of Isaac: Repentance | API additions, bug fixes, assembly-level patches |
-| [IsaacScript](https://github.com/IsaacScript/isaacscript) | TypeScript tooling for Isaac mod development | Type definitions and API documentation |
+| [C-Systems-Test-Lab|(https://github.com/Syntax-Sculptor/c-systems-test-lab) C CLI tool for analyzing a binary string in many forms | Implementation, Unit tests, and edge-case coverage |
 | [ByteStats](link-here) | C CLI tool for byte-level file statistics | Implementation, Unit tests and edge-case coverage |
